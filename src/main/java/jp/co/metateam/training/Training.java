@@ -1,7 +1,11 @@
 package jp.co.metateam.training;
 
-public class Test {
+public class Training {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        // 問1
+
+        // 問2
+
+        // 問3
     }
 }
